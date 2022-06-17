@@ -1,0 +1,5 @@
+C:\Users\Asus\source\repos\Wine\Wine\obj\Debug\Wine.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Wine\Wine\obj\Debug\Wine.Form1.resources
+C:\Users\Asus\source\repos\Wine\Wine\obj\Debug\Wine.Properties.Resources.resources
+C:\Users\Asus\source\repos\Wine\Wine\obj\Debug\Wine.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Wine\Wine\obj\Debug\Wine.csproj.CoreCompileInputs.cache
